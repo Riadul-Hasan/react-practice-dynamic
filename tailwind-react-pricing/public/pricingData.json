@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "title": "Basic",
+    "price": 29,
+    "billingCycle": "per month",
+    "features": [
+      "Access to gym equipment",
+      "1 fitness assessment",
+      "Locker room access",
+      "Free Wi-Fi"
+    ],
+    "buttonText": "Join Basic",
+    "popular": false
+  },
+  {
+    "id": 2,
+    "title": "Standard",
+    "price": 49,
+    "billingCycle": "per month",
+    "features": [
+      "All Basic features",
+      "Unlimited group classes",
+      "2 guest passes/month",
+      "Sauna access",
+      "Personal trainer consultation"
+    ],
+    "buttonText": "Join Standard",
+    "popular": true
+  },
+  {
+    "id": 3,
+    "title": "Premium",
+    "price": 79,
+    "billingCycle": "per month",
+    "features": [
+      "All Standard features",
+      "Unlimited personal training sessions",
+      "Priority support",
+      "Nutritional guidance",
+      "Private locker"
+    ],
+    "buttonText": "Join Premium",
+    "popular": false
+  }
+]
